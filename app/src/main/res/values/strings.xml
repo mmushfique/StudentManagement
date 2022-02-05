@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="Heading">Student Management</string>
+    <string name="Search">Search</string>
+    <string name="Name">Name</string>
+    <string name="DOB">Date of birth</string>
+    <string name="ageFormat">dd/mm/yyyy</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Email">Email</string>
+    <string name="Course">Course</string>
+    <string name="Registration">Registration No</string>
+    <string name="Profile">Profile</string>
+
+    <string name="btnAdd">Add new student</string>
+    <string name="btnDelete">Delete this student</string>
+    <string name="btnUpdate">Update this student</string>
+    <string name="btnView">View all students</string>
+    <string name="btnReset">CLEAR</string>
+    <string name="Register">Register</string>
+    <string name="signup"><u>Sign Up</u></string>
+    <string name="Desc">Enter your email address and then create a password.</string>
+
+    <string-array name="courseArray">
+        <item></item>
+        <item>HNDIT</item>
+        <item>HNDA</item>
+        <item>HNDE</item>
+        <item>HNDPM</item>
+    </string-array>
+
+    <string name="Username">Enter Username</string>
+    <string name="Password">Enter Password</string>
+    <string name="Login">LOGIN</string>
+
+
+</resources>
