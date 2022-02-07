@@ -1,5 +1,5 @@
 # StudentManagement
-Student management app in amdroid
-An android application developed in java for a group assignment.
+Student management app in android
+An android application developed is a mini-project developed as a group
 Language used - java 
 Database - SqlLite
